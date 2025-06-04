@@ -1,0 +1,6 @@
+## Êtes-vous prêt à entamer une nouvelle étape dans votre parcours professionnel ?
+Oui, complètement ! Je sens que je suis à un tournant important. Grâce à la formation à GoMyCode, j’ai pris conscience de tout le potentiel que j’ai envie d’exploiter. J’avance avec plus de clarté sur mes objectifs, et je suis prêt à relever de nouveaux défis dans le monde du développement. J’ai vraiment hâte de passer de l’apprentissage à l’action, et de contribuer à des projets concrets, que ce soit en entreprise ou en freelance.
+
+## Toute idée dont vous souhaitez parler, en particulier les compétences que vous acquérez pendant le Bootcamp :
+Ce Bootcamp m’a permis de poser de solides bases techniques : HTML, CSS, JavaScript, React, Node.js… mais ce n’est pas juste une histoire de code. J’apprends aussi à réfléchir comme un développeur, à chercher des solutions, à structurer mes idées et à collaborer.
+Un exemple concret : je travaille sur une appli de commande en ligne connectée à WhatsApp, que j’aimerais utiliser pour mon activité de vente. C’est un projet qui me tient à cœur, car il me permet de mettre en pratique ce que j’apprends, tout en répondant à un besoin réel. Et c’est ce genre de projets qui me motivent à aller encore plus loin !
